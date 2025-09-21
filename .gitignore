@@ -1,0 +1,8 @@
+.vscode/*
+./lambda/.venv/*
+./lambda/.env
+lambda/.env
+lambda/.venv/*
+lambda/__pycache__/*
+lambda/generate_pdf_report/package/*
+lambda/generate_pdf_report/my_deployment_package.zip
